@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-ntgclass
 Version:	20061205
-Release:	3
+Release:	4
 Summary:	"European" versions of standard classes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ntgclass
