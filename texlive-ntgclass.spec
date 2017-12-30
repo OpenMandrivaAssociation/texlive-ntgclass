@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-ntgclass
-Version:	20170414
+Version:	2.1a
 Release:	1
 Summary:	"European" versions of standard classes
 Group:		Publishing
