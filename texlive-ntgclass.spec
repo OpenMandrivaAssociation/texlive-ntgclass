@@ -1,6 +1,6 @@
 Name:		texlive-ntgclass
-Version:	56959
-Release:	2
+Version:	65522
+Release:	1
 Summary:	"European" versions of standard classes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ntgclass
