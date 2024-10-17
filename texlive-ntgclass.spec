@@ -3,7 +3,7 @@ Version:	65522
 Release:	1
 Summary:	"European" versions of standard classes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ntgclass
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ntgclass
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ntgclass.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ntgclass.doc.r%{version}.tar.xz
